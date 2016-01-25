@@ -1,1 +1,1 @@
-# font-icon-exercise
+# exercise-1-font-icon
