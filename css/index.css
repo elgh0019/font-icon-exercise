@@ -18,13 +18,17 @@ html {
 }
 
 .btn{
-	 background-color: green;
-	 color: #000;
-	 font-weight: bold;
-	 text-decoration: none;
-	 margin: 1em;
-	 padding: 1em;
-	 border-radius: 5px;
+	background-color: #5ED18C;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0.5em;
+    font-size: 1.5em;
+    background-image: linear-gradient(to right, #5ED18C, #52B467);
 }
 
 .btn:hover,
