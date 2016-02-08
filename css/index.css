@@ -32,7 +32,7 @@ html {
 }
 
 .btn:hover,
-.btn:active;
+.btn:active,
 .btn:focus{
     color: #425152;
     background-image: linear-gradient(to bottom right, #B5D9C0, #919191);
