@@ -34,8 +34,10 @@ html {
 .btn:hover,
 .btn:active;
 .btn:focus{
-	background-color: #aaa;	
+    color: #425152;
+    background-image: linear-gradient(to bottom right, #B5D9C0, #919191);
 }
+
 .btn i{
 	vertical-align: middle;
 	padding-right: 3em;
